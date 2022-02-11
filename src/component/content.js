@@ -1,6 +1,6 @@
 import React from 'react'
 
-function content() {
+function Content() {
   return (
     <div>
         <div>
@@ -12,7 +12,7 @@ function content() {
             <input type='text' placeholder='ID' />
         </div>
         <div>
-            
+            <h3>image</h3>
         </div>
         
 
@@ -20,4 +20,4 @@ function content() {
   )
 }
 
-export default content
+export default Content
