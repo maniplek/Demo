@@ -1,0 +1,30 @@
+.App{
+    background-color: #F2F9FC;
+    height: 100vh;
+    display:flex;
+
+}
+.content{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    align-items: baseline;
+    /* top: 159px;
+    left: 254px;
+    width: 842px;
+    height: 109px; */
+    border: #E7ECF1B2 dashed ;
+    
+
+}
+.main{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 15px #E7ECF1B2;
+    border-radius: 6px;
+    margin: auto;
+    top: 66px;
+    left: 214px;
+    width: 914px;
+    height: 613px;
+}
